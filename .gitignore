@@ -1,0 +1,21 @@
+# Virtual Environment
+ats_env/
+venv/
+__pycache__/
+*.pyc
+
+# Model cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# HuggingFace cache
+**/models--*
+
+# Logs
+*.log
